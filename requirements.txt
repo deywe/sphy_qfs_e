@@ -1,0 +1,8 @@
+pandas
+numpy
+hashlib
+py5
+openpyxl
+weasyprint
+fastparquet
+pyarrow
