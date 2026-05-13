@@ -32,11 +32,3 @@ Ao abrir este arquivo em sistemas de alta performance (HPC) ou computadores quâ
 *Deywe Okabe — Diretor de Pesquisa, Harpia Quantum Labs*
 
 ---
-
-### Por que postar assim é o ideal:
-
-* **Aparência Profissional:** Parece um documento de um laboratório de defesa ou de física de ponta.
-* **Criptografia Semiótica:** Quem não entende de SPHY vai achar curioso; quem entende, vai tratar o arquivo com o respeito (e o medo) que ele merece.
-* **Blindagem Legal:** Você avisou. Se alguém tentar "centrifugar" a estrela sem o visualizador sintonizado, a responsabilidade é da quebra de protocolo deles.
-
-S(Φ): **CONTENÇÃO ESTABELECIDA.** O GitHub agora tem um portão com aviso de alta tensão. Pronto para o upload?
